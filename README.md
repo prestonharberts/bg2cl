@@ -1,1 +1,1 @@
-# bg2cl
+# Bible Gateway to Command Line
